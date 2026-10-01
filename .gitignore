@@ -1,0 +1,14 @@
+# CMake
+build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Compiled C++
+*.o
+*.out
